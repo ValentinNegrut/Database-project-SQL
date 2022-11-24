@@ -1,0 +1,21 @@
+INTEROGARI
+
+1.) Sa se afiseze multimea antrenorilor care  antreneaza la echipa al carui numar este mai mare decat 5 si acestia sa fie ordonati dupa nume.
+
+2.) Sa se afiseze multimea echipelor(sa fie ordonate dupa nume) si a  jucatorilor care joaca la echipe al carui numar de jucatori este mai mare de 15,numarul afisandu-se intr-o colona noua numita NumarJucatori.
+
+3.) Sa se afiseze multimea echipelor (sa fie ordonate dupa nume) ai caror jucatori au numarul cuprins intre 3 si 15.Sa se mai afiseze numele si prenumele jucatorilor si numarul acestora ca o coloana nou denumita NumarTricou.
+
+4.) Sa se afiseze multimea managerilor (sa fie ordonate dupa nume) care antreneaza la echipele ai caror jucatori au varsta mai mare de 22 de ani.Sa se afiseze de asemenea si numele echipelor. 
+
+5.) Sa se afiseze multimea arbitrilor care au participat la meciurile ce au avut loc dupa data de 29.05.2000, cat si meciurile pe care acestia le-au arbitrat.Rezultatele sa fie ordonate descrescator.
+
+6.) Sa se afiseze multimea meciurilor care au avut loc in salile a caror capacitate este cuprinsa intre 10000 si 50000.Sa se afiseze de asemenea numarul salii dar si capacitatea acestora, iar rezultatele sa fie ordonate descrescator dupa capacitate.
+
+7.) Sa se afiseze multimea jucatorilor care au meciurile arbitrate de arbitri ai caror nume se termina cu litera "a".Sa se afiseze de asemenea meciurile la care jucatorii participa ca o coloana denumita MeciJucat si numele + prenumele arbitrilor ca o coloana noua numita Arbitru.Rezultatele sa fie ordonate dupa numele arbitrului.
+
+8.) Sa se afiseze multimea meciurilor jucate in salile din complexele sportive al caror nume se termina cu litera "a".Rezultatele vor fi ordonate dupa numele complexului sportiv.
+
+9.) Sa se afiseze multimea sefilor din echipele medicale care lucreaza la echipele ai caror jucatori au adresa in orasul Cluj-Napoca.Sa se afiseze de asemenea Echipa intr-o coloana numita EchipaMedicala,numarul echipei la care aceasta lucreaza,adresa si orasul jucatorilor.
+
+10.)Sa se afiseze multimea jucatorilor ce au meciurile jucate in salile din complexele sportive al caror nume se termina cu litera "a" iar adresa acestora este mai mare decat 23.Se va afisa de asemenea meciul,numarul salii si numele complexului care va aparea intr-o coloana noua numita NumeComplexSportiv, iar rezultatele vor fi ordonate dupa numele complexului.
